@@ -1,0 +1,86 @@
+.body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.nav-link{
+    font-size: 30px;
+}
+.jumbotron{
+    background-repeat: no-repeat!important;
+    height: 500px;
+    background-size: cover!important;
+    
+    max-width: 100%!important;
+    background: url(https://previews.123rf.com/images/petovarga/petovarga2003/petovarga200300005/142276662-group-of-people-wearing-protection-medical-face-mask-to-protect-and-prevent-virus-disease-flu-air-po.jpg);
+}
+.row1, .row2, .row3{
+    display: flex;
+}
+
+span{
+    font-size: 50px;
+    font-style: bold;
+    font-family: roadtest;
+    margin-right: 10px;
+    color: white;
+    
+}
+.icon {
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+    letter-spacing: 30px;
+
+
+}
+.card-text{
+    font-family: 'Times New Roman', Times, serif;
+}
+.display-4 {
+    font-size: 75px !important;
+    font-family: jokerman;
+    text-align: center!important;
+    max-height: 100%!important;
+}
+.jumbotron p{
+    font-weight: 900;
+    text-align: center;
+    font-size: 30px;
+    font-family: chiller;
+    color: rgb(12, 45, 94);
+    
+    }
+.nav-link{
+    font-family: algerian;
+    color: rgb(255, 255, 255)!important;
+}
+a{
+    color: rgb(255, 255, 255)!important;
+}
+
+#believer{
+    background-color: black;
+}
+.heading{
+    margin-left: 30px;
+    font-size: 60px;
+    font-family: jokerman;
+    color: white;
+
+
+
+}
+.jumbotron{
+    margin-bottom: 30px!important;
+}
+.mouse{
+    background-color: black;
+}
+.card{
+    height: 80vh!important;
+}
+.card-img-top{
+    height: 55vh;
+}
